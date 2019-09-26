@@ -1,0 +1,7 @@
+net\guides\springboot2\springboot2jpacrudexample\model\Course.class
+net\guides\springboot2\springboot2jpacrudexample\controller\CourseController.class
+net\guides\springboot2\springboot2jpacrudexample\repository\CourseRepository.class
+net\guides\springboot2\springboot2jpacrudexample\Application.class
+net\guides\springboot2\springboot2jpacrudexample\exception\ErrorDetails.class
+net\guides\springboot2\springboot2jpacrudexample\exception\ResourceNotFoundException.class
+net\guides\springboot2\springboot2jpacrudexample\exception\GlobalExceptionHandler.class
