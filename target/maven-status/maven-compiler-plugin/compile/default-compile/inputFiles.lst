@@ -1,7 +1,10 @@
-C:\Users\Lenovo-PC\Documents\Project\day 9\spring-boot2-jpa-crud-example-master\src\main\java\net\guides\springboot2\springboot2jpacrudexample\exception\ErrorDetails.java
-C:\Users\Lenovo-PC\Documents\Project\day 9\spring-boot2-jpa-crud-example-master\src\main\java\net\guides\springboot2\springboot2jpacrudexample\exception\ResourceNotFoundException.java
-C:\Users\Lenovo-PC\Documents\Project\day 9\spring-boot2-jpa-crud-example-master\src\main\java\net\guides\springboot2\springboot2jpacrudexample\model\Course.java
-C:\Users\Lenovo-PC\Documents\Project\day 9\spring-boot2-jpa-crud-example-master\src\main\java\net\guides\springboot2\springboot2jpacrudexample\Application.java
-C:\Users\Lenovo-PC\Documents\Project\day 9\spring-boot2-jpa-crud-example-master\src\main\java\net\guides\springboot2\springboot2jpacrudexample\controller\CourseController.java
-C:\Users\Lenovo-PC\Documents\Project\day 9\spring-boot2-jpa-crud-example-master\src\main\java\net\guides\springboot2\springboot2jpacrudexample\repository\CourseRepository.java
-C:\Users\Lenovo-PC\Documents\Project\day 9\spring-boot2-jpa-crud-example-master\src\main\java\net\guides\springboot2\springboot2jpacrudexample\exception\GlobalExceptionHandler.java
+D:\a\kelompokrajinsholat\src\main\java\net\guides\springboot2\springboot2jpacrudexample\model\Course.java
+D:\a\kelompokrajinsholat\src\main\java\net\guides\springboot2\springboot2jpacrudexample\exception\ErrorDetails.java
+D:\a\kelompokrajinsholat\src\main\java\net\guides\springboot2\springboot2jpacrudexample\controller\LecturerController.java
+D:\a\kelompokrajinsholat\src\main\java\net\guides\springboot2\springboot2jpacrudexample\controller\CourseController.java
+D:\a\kelompokrajinsholat\src\main\java\net\guides\springboot2\springboot2jpacrudexample\repository\CourseRepository.java
+D:\a\kelompokrajinsholat\src\main\java\net\guides\springboot2\springboot2jpacrudexample\repository\LecturerRepository.java
+D:\a\kelompokrajinsholat\src\main\java\net\guides\springboot2\springboot2jpacrudexample\Application.java
+D:\a\kelompokrajinsholat\src\main\java\net\guides\springboot2\springboot2jpacrudexample\model\Lecturer.java
+D:\a\kelompokrajinsholat\src\main\java\net\guides\springboot2\springboot2jpacrudexample\exception\ResourceNotFoundException.java
+D:\a\kelompokrajinsholat\src\main\java\net\guides\springboot2\springboot2jpacrudexample\exception\GlobalExceptionHandler.java

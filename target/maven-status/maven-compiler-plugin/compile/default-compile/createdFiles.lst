@@ -4,4 +4,7 @@ net\guides\springboot2\springboot2jpacrudexample\repository\CourseRepository.cla
 net\guides\springboot2\springboot2jpacrudexample\Application.class
 net\guides\springboot2\springboot2jpacrudexample\exception\ErrorDetails.class
 net\guides\springboot2\springboot2jpacrudexample\exception\ResourceNotFoundException.class
+net\guides\springboot2\springboot2jpacrudexample\model\Lecturer.class
+net\guides\springboot2\springboot2jpacrudexample\controller\LecturerController.class
 net\guides\springboot2\springboot2jpacrudexample\exception\GlobalExceptionHandler.class
+net\guides\springboot2\springboot2jpacrudexample\repository\LecturerRepository.class
