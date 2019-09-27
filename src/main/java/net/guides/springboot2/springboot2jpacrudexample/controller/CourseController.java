@@ -36,7 +36,7 @@ public class CourseController {
 	public ResponseEntity<Course> getCourseById(@PathVariable(value = "id_course") Long courseId)
 			throws ResourceNotFoundException {
 		Course course = courseRepository.findById(courseId)
-				.orElseThrow(() -> new ResourceNotFoundException("Course not found for this id sayang:: " + courseId));
+				.orElseThrow(() -> new ResourceNotFoundException("matkul tidak ditemukan di id ini sayang:: " + courseId));
 		return ResponseEntity.ok().body(course);
 	}
 
